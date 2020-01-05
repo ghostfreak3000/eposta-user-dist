@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.da46b1bb.chunk.css",
-    "main.js": "/static/js/main.260a4220.chunk.js",
-    "main.js.map": "/static/js/main.260a4220.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d434ba22.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d434ba22.js.map",
-    "static/css/2.716f32a4.chunk.css": "/static/css/2.716f32a4.chunk.css",
-    "static/js/2.5684ca3c.chunk.js": "/static/js/2.5684ca3c.chunk.js",
-    "static/js/2.5684ca3c.chunk.js.map": "/static/js/2.5684ca3c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ad6bf1ce247f6427ae6c2a9026b68f38.js": "/precache-manifest.ad6bf1ce247f6427ae6c2a9026b68f38.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.716f32a4.chunk.css.map": "/static/css/2.716f32a4.chunk.css.map",
-    "static/css/main.da46b1bb.chunk.css.map": "/static/css/main.da46b1bb.chunk.css.map",
-    "static/js/2.5684ca3c.chunk.js.LICENSE": "/static/js/2.5684ca3c.chunk.js.LICENSE",
-    "static/media/fill_forms.svg": "/static/media/fill_forms.f3c9191a.svg",
-    "static/media/on_the_way.svg": "/static/media/on_the_way.4e1649f1.svg"
+    "main.css": "/eposta-user-dist/static/css/main.da46b1bb.chunk.css",
+    "main.js": "/eposta-user-dist/static/js/main.5f262811.chunk.js",
+    "main.js.map": "/eposta-user-dist/static/js/main.5f262811.chunk.js.map",
+    "runtime-main.js": "/eposta-user-dist/static/js/runtime-main.6c22e432.js",
+    "runtime-main.js.map": "/eposta-user-dist/static/js/runtime-main.6c22e432.js.map",
+    "static/css/2.716f32a4.chunk.css": "/eposta-user-dist/static/css/2.716f32a4.chunk.css",
+    "static/js/2.5684ca3c.chunk.js": "/eposta-user-dist/static/js/2.5684ca3c.chunk.js",
+    "static/js/2.5684ca3c.chunk.js.map": "/eposta-user-dist/static/js/2.5684ca3c.chunk.js.map",
+    "index.html": "/eposta-user-dist/index.html",
+    "precache-manifest.d0e86ff5925e948239c0b6d35294729e.js": "/eposta-user-dist/precache-manifest.d0e86ff5925e948239c0b6d35294729e.js",
+    "service-worker.js": "/eposta-user-dist/service-worker.js",
+    "static/css/2.716f32a4.chunk.css.map": "/eposta-user-dist/static/css/2.716f32a4.chunk.css.map",
+    "static/css/main.da46b1bb.chunk.css.map": "/eposta-user-dist/static/css/main.da46b1bb.chunk.css.map",
+    "static/js/2.5684ca3c.chunk.js.LICENSE": "/eposta-user-dist/static/js/2.5684ca3c.chunk.js.LICENSE",
+    "static/media/fill_forms.svg": "/eposta-user-dist/static/media/fill_forms.f3c9191a.svg",
+    "static/media/on_the_way.svg": "/eposta-user-dist/static/media/on_the_way.4e1649f1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d434ba22.js",
+    "static/js/runtime-main.6c22e432.js",
     "static/css/2.716f32a4.chunk.css",
     "static/js/2.5684ca3c.chunk.js",
     "static/css/main.da46b1bb.chunk.css",
-    "static/js/main.260a4220.chunk.js"
+    "static/js/main.5f262811.chunk.js"
   ]
 }
